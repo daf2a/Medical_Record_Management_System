@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.figtree {
+    font-family: 'figtree', sans-serif;
+}
+
+body {
+    font-family: 'figtree', sans-serif;
+}
